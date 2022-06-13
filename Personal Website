@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <head>
-  <title>Anna Dowlin</title>
+  <title>YOUR NAME HERE</title>
   <style>
     body {
       text-align: center;
-      background: url("http://dash.ga.co/assets/anna-bg.png");
+      background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2016/10/camera-photo-lens-stock-images.jpg?q=50&fit=contain&w=1500&h=750&dpr=1.5");
       background-size: cover;
       background-position: center;
       color: white;
@@ -25,8 +25,8 @@
   </style>
 </head>
 <body>
-  <img src="/assets/anna.png">
-  <p>Hi! I'm Anna, a NYC-based marketer. Say hello!</p>
+  <img src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/sunflower-field-blue-sky-stock-image.jpg?q=50&fit=crop&w=1500&dpr=1.5">
+  <p>Hi! This could be your website!</p>
   <input type="email" placeholder="Your email">
   <input type="submit">
 </body>
